@@ -34,7 +34,7 @@ let currG;
 let currB;
 
 function setup() {
-  createCanvas(1000, 800);
+  createCanvas(1000, 825);
   frameRate(300);
   
   background(200, 200, 200);
